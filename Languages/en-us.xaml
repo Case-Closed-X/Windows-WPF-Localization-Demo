@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:sys="clr-namespace:System;assembly=System.Runtime">
+    <sys:String x:Key="MainWindowTitle">Localization demo</sys:String>
+    <sys:String x:Key="TextCurrentLanguage">Current language:</sys:String>
+    <sys:String x:Key="ComboBoxItemChineseSimplified">简体中文</sys:String>
+    <sys:String x:Key="ComboBoxItemChineseTraditional">繁體中文</sys:String>
+    <sys:String x:Key="ComboBoxItemEnglish">English</sys:String>
+    <sys:String x:Key="ButtonDialogTest">Dialog test</sys:String>
+    <sys:String x:Key="MessageBoxText">Dialog content test</sys:String>
+    <sys:String x:Key="MessageBoxCaption">Dialog caption</sys:String>
+    <sys:String x:Key="ButtonNewWindowTest">New window test</sys:String>
+    <sys:String x:Key="DataGridTextColumnHeaderID">ID</sys:String>
+    <sys:String x:Key="DataGridTextColumnHeaderName">Name</sys:String>
+    <sys:Int32 x:Key="GameIDCyberpunk">1091500</sys:Int32>
+    <sys:String x:Key="GameNameCyberpunk">Cyberpunk 2077</sys:String>
+    <sys:Int32 x:Key="GameIDWitcher3">292030</sys:Int32>
+    <sys:String x:Key="GameNameWitcher3">The Witcehr 3</sys:String>
+
+    <sys:String x:Key="NewWindowTitle">New Window</sys:String>
+    <sys:String x:Key="ButtonClose">Close</sys:String>
+
+</ResourceDictionary>
