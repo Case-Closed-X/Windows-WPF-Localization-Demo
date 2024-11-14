@@ -12,7 +12,7 @@
 🌟效果图
 
 <div>
-<img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/00dbc6628e30a96fe0a3027f94387ece28b30b31/Images/Chinese%20Simplified.png" width="240px" height="240px" />
-<img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/00dbc6628e30a96fe0a3027f94387ece28b30b31/Images/Chinese%20Traditional.png" width="240px" height="240px" />
- <img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/00dbc6628e30a96fe0a3027f94387ece28b30b31/Images/English.png" width="240px" height="240px" />
+<img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/f8c783a67e04054402b27965c48c0160e919ef95/Images/Chinese%20Simplified.png" width="240px" height="240px" />
+<img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/f8c783a67e04054402b27965c48c0160e919ef95/Images/Chinese%20Traditional.png" width="240px" height="240px" />
+ <img src="https://github.com/Case-Closed-X/Windows-WPF-Localization-Demo/blob/f8c783a67e04054402b27965c48c0160e919ef95/Images/English.png" width="240px" height="240px" />
 </div>
