@@ -9,6 +9,7 @@
                 <ResourceDictionary Source="pack://application:,,,/Localization_Demo;component/Languages/zh-hans.xaml"/>
                 <!--<ResourceDictionary Source="pack://application:,,,/Localization_Demo;component/Languages/zh-hant.xaml"/>-->
                 <!--<ResourceDictionary Source="pack://application:,,,/Localization_Demo;component/Languages/en-us.xaml"/>-->
+                <ResourceDictionary Source="pack://application:,,,/PresentationFramework.Fluent;component/Themes/Fluent.xaml" />
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>

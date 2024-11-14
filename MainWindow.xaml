@@ -20,8 +20,8 @@
                 <ComboBoxItem Content="{DynamicResource ComboBoxItemEnglish}" />
             </ComboBox>
 
-            <Button x:Name="buttonDialogTest" Margin="0 20 0 0" Height="80" Content="{DynamicResource ButtonDialogTest}"/>
-            <Button x:Name="buttonNewWindowTest" Margin="0 10 0 0" Height="80" Content="{DynamicResource ButtonNewWindowTest}"/>
+            <Button x:Name="buttonDialogTest" Margin="0 20 0 0" Height="80" Width="450" Content="{DynamicResource ButtonDialogTest}"/>
+            <Button x:Name="buttonNewWindowTest" Margin="0 10 0 0" Height="80" Width="450" Content="{DynamicResource ButtonNewWindowTest}"/>
 
             <DataGrid Height="150" Margin="0 20 0 0" x:Name="DataGridGames" AutoGenerateColumns="False" ItemsSource="{Binding Games}" CanUserAddRows="False">
                 <DataGrid.Columns>
