@@ -1,7 +1,7 @@
 # Windows-WPF-Localization-Demo
  项目基于.NET 6.0，于2023年国庆节开源。
 
- 后更新为基于.NET 9.0的WPF Fluent主题样式。
+ 后更新基于.NET 9.0的WPF Fluent主题样式。
 
  功能为WPF本地化Demo，实现了动态语言切换，无需重启程序。
 
